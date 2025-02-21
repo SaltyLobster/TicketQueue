@@ -13,6 +13,7 @@
         struct QueueTicket
         {
             public int iD = 1;
+            //Unsused for now
             public string window;
 
             public QueueTicket(int id)
